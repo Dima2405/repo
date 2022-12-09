@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>horses</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<table>
+<tr>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+</tr>
+<tr>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+</tr>
+<tr>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+<td><label><input type="checkbox"><i><i></label></td>
+</tr>   
+</table>
+</body>
+</html>
